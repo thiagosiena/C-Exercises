@@ -1,2 +1,2 @@
 # C-Exercises
-Some C ex
+> c exercises recommended by my college professor to improve my logical programming skills 
